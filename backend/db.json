@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "username": "admin@harshu",
+      "email": "harshu@gmail.com",
+      "password": "1234",
+      "id": "3KA8efUTVagosRGdSlwNg",
+      "isAdmin": true,
+      "cart": [
+        {
+          "productId": "VgvOaN3A1y9MrBehWooan",
+          "quantity": 38
+        },
+        {
+          "productId": "UPs5C7SwT3it-V6ZxLRJ8",
+          "quantity": 8
+        },
+        {
+          "productId": "Fxg712-yxg_quKtqoRRcM",
+          "quantity": 1
+        },
+        {
+          "productId": "dDkXcrPdF7qm6rOkU2umA",
+          "quantity": 5
+        },
+        {
+          "productId": "rYkOBNWNyDWuBQntddpsW",
+          "quantity": 3
+        },
+        {
+          "productId": "JzHnLpAHDk9zE4wsxi2Ko",
+          "quantity": 1
+        },
+        {
+          "productId": "tpGNk86giF8RKnxVP1D0v",
+          "quantity": 1
+        },
+        {
+          "productId": "4b7lzXz55cxrF9BmGn_HH",
+          "quantity": 1
+        },
+        {
+          "productId": "quaN2b4uVFiU1BbJ_5Rip",
+          "quantity": 1
+        },
+        {
+          "productId": "LkVK0PMFuMPbfueqGKqF1",
+          "quantity": 1
+        },
+        {
+          "productId": "o6-hI_Gnh2mcpVAmHpZg8",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "username": "ayush",
+      "email": "ayush@com",
+      "password": "1234",
+      "id": "E8aS6ohecKu2E5zWG0g6Q",
+      "isAdmin": true,
+      "cart": []
+    },
+    {
+      "username": "aman",
+      "email": "amankhandalkar@gmail.com",
+      "password": "1234",
+      "id": "qWwZLmL9elBkcrTkIWZvr",
+      "isAdmin": false
+    }
+  ],
+  "products": [
+    {
+      "title": "IPhone 17",
+      "price": "1500",
+      "description": "Apple iPhone 17 Pro Max Cosmic Orangeq",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1759203302534-c6e71c93e886?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": "Fxg712-yxg_quKtqoRRcM"
+    },
+    {
+      "title": "fdwef",
+      "price": "1, 70000 ",
+      "description": "Fastest Snapdragon 8 Elite Gen 5 Processor",
+      "category": "Electronics",
+      "image": "https://cdn.dummyjson.com/recipe-images/3.webp",
+      "id": "dDkXcrPdF7qm6rOkU2umA"
+    }
+  ],
+  "carts": [
+    {
+      "title": "pizza",
+      "price": "299",
+      "description": "Hot and cheesy pizza topped with fresh vegetables and flavorful sauce on a perfectly baked crust. Every bite is rich, delicious, and satisfying. The melted cheese, crispy base, and mouth-watering toppings make it a favorite comfort food for everyone.",
+      "category": "Food",
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=781&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": "FjRh-Agp1TwxcWaB9ICQV"
+    },
+    {
+      "title": "IPhone 17",
+      "price": "1500",
+      "description": "Apple iPhone 17 Pro Max Cosmic Orangeq",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1759203302534-c6e71c93e886?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": "X-gKahhtCZm5BTlcsL6PQ"
+    },
+    {
+      "title": "pizza",
+      "price": "299",
+      "description": "Hot and cheesy pizza topped with fresh vegetables and flavorful sauce on a perfectly baked crust. Every bite is rich, delicious, and satisfying. The melted cheese, crispy base, and mouth-watering toppings make it a favorite comfort food for everyone.",
+      "category": "Food",
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=781&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": "gMggdxD8Ju3FmnSjaJ_rS"
+    },
+    {
+      "title": "pizza",
+      "price": "299",
+      "description": "Hot and cheesy pizza topped with fresh vegetables and flavorful sauce on a perfectly baked crust. Every bite is rich, delicious, and satisfying. The melted cheese, crispy base, and mouth-watering toppings make it a favorite comfort food for everyone.",
+      "category": "Food",
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=781&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": "gJJXtZU-6Vg-5NBuKsuuX"
+    },
+    {
+      "title": "IPhone 17",
+      "price": "1500",
+      "description": "Apple iPhone 17 Pro Max Cosmic Orangeq",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1759203302534-c6e71c93e886?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": "ZMBvExj5UFjAeLjts3UN2"
+    },
+    {
+      "title": "pizza",
+      "price": "299",
+      "description": "Hot and cheesy pizza topped with fresh vegetables and flavorful sauce on a perfectly baked crust. Every bite is rich, delicious, and satisfying. The melted cheese, crispy base, and mouth-watering toppings make it a favorite comfort food for everyone.",
+      "category": "Food",
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=781&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": "7B210FLZqTcC2cIteUlZs"
+    },
+    {
+      "title": "IPhone 17",
+      "price": "1500",
+      "description": "Apple iPhone 17 Pro Max Cosmic Orangeq",
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1759203302534-c6e71c93e886?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": "LPAtZlCQ8FNQaBbSkId5F"
+    }
+  ]
+}

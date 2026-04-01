@@ -1,0 +1,93 @@
+// for creating our personal API (Basic API)
+
+- npm install json-server
+
+//~ make db.json file at global folder {/root}
+
+//!Pass it to JSON Server CLI (starts the server)
+- npx json server db.json 
+
+
+
+Install
+
+ npm i react-router-dom react-toastify axios nanoid react-hook-form
+ npm i @reduxjs/toolkit react-redux
+ 
+
+
+
+
+ Folder Structure
+
+
+
+
+frontend
+    /src
+        /store
+            /reducer
+                UserReducer.jsx
+            store.jsx
+        /pages
+            /admin
+                CreateProduct.jsx
+                UpdateProduct.jsx
+            /user
+                Login.jsx
+                Home.jsx
+                Register.jsx
+                Products.jsx
+        /routes
+        /api
+            axiosconfig.jsx - it has database URL ex - ( baseURL:"http://localhost:3000/" )
+        /components
+        /assets
+
+
+/backend
+    db.json - it has personal api created
+
+    
+
+
+
+
+
+
+
+
+Day 1
+
+Folder Structure
+Redux Setup
+
+
+Day 2
+Login 
+Register
+
+Day 3
+Product 
+    Create Product - fetch data from form
+    save product data on db
+    get gata from db and save at productReducer.jsx inside loadProduct Reducer 
+    display product data at Products.jsx using useSelector()
+
+Day 4  Update Product Funcnality 
+
+    PATCH - use to Update only the part which is changed in database
+    PUT - use for replacing the existing data with new data.
+
+
+Day 5
+
+Making Authenticated/Protected Routes (Authenticated user)
+ For -  Agar user Login hai to user ko Login & Register nhi dekhna chahiye 
+ OR if user is LoggedIn then don't show him Login and Register Pages
+
+
+Day 6
+
+
+
